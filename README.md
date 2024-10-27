@@ -20,3 +20,4 @@ i) creazioene delle pagine login e logput,
 3) creezione della logia di request nel file client.js
 
 4)reypla# CrudLaravelReact
+# core
