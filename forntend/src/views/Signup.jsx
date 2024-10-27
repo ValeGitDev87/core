@@ -51,7 +51,7 @@ function Signup() {
           <h1 className="title">Registati</h1>
           <input autoComplete='new-name' ref={nameRef} type="text" placeholder='Nome'/>
           <input autoComplete='new-email' ref={emailRef} type="email" placeholder='Email'/>
-          <input autoComplete='new-password' ref={passRef} type="password" placeholder='Password' />
+          <input autoComplete='new-password' ref={passRef} type="password" placeholder='password' />
           <input autoComplete= 'new-password'ref={passConfirmRef} type="password" placeholder='Conferma Password' />
 
           <button type='submit' className='btn btn-block'>Registrati</button>
